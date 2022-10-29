@@ -1,0 +1,615 @@
+{
+  "data": [
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/45ce6f3b-6273-4298-9638-025148951b27.jpeg?h=365&w=240&dpr=2",
+      "Title": "Ribbed Long Slipdress",
+      "Price": 100,
+      "Rating": "1",
+      "type": "women",
+      "id": 1
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/ab07d312-722b-4fe3-a75b-064bdd89cacb.jpeg?h=365&w=240&dpr=2",
+      "Title": "Ruffle Halter Crepe Gown",
+      "Price": 398,
+      "Rating": "4",
+      "type": "women",
+      "id": 2
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/090b01a3-be3b-4d57-8053-0171f2dc8618.jpeg?h=365&w=240&dpr=2",
+      "Title": "Lounge Ribbed Long Sleeve Maxi Dress",
+      "Price": 234,
+      "Rating": "3",
+      "type": "women",
+      "id": 3
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/56185837-dfe4-460f-a1fe-c0d2473470d8.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Florence Tie Back Minidress FREE PEOPLE",
+      "Price": 436,
+      "Rating": "2",
+      "type": "women",
+      "id": 4
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/ec782a05-3b43-4194-9d52-cf5657e33244.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Rosie Mock Neck Long Sleeve Sweater Dress STEVE MADDEN",
+      "Price": 672,
+      "Rating": "1",
+      "type": "women",
+      "id": 5
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/951ba042-cf8b-43f2-bb72-f496bbe438bd.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Tiffany One-Shoulder Midi Dress",
+      "Price": 723,
+      "Rating": "1",
+      "type": "women",
+      "id": 6
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/3c1e0e33-be19-4c59-9ecc-fac86f0d6c56.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Long Sleeve Satin Wrap Shirtdress",
+      "Price": 877,
+      "Rating": "1",
+      "type": "women",
+      "id": 7
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/eb799ba6-795b-4b80-afd1-535483a42a2e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Sloane Sleeveless Sheath Dress",
+      "Price": 737,
+      "Rating": "5",
+      "type": "women",
+      "id": 8
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/93f9dbe2-5c48-4965-84ab-bf3b44b2a9af.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Square Neck Tie Back Puff Long Sleeve Sweater",
+      "Price": 238,
+      "Rating": "3",
+      "type": "women",
+      "id": 9
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/7ae01d0b-df59-430e-b213-4332cf71bbff.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Snatched Me In Long Sleeve Body-Con Dress",
+      "Price": 383,
+      "Rating": "1",
+      "type": "women",
+      "id": 10
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/a83dfb45-1e75-4f02-bd52-52078e3dbefd.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "Title": "Fleur Pointed Toe Mule",
+      "Price": 393,
+      "Rating": "2",
+      "type": "women",
+      "id": 11
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/617e4a9e-f978-4db0-998d-af942f71b91f.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "Title": "Tasel Waterproof Block Heel Bootie",
+      "Price": 836,
+      "Rating": "3",
+      "type": "women",
+      "id": 12
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/81fc6d7e-7966-46cf-b06c-52d0c889e771.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "Title": "Hazel Pointed Toe Pump",
+      "Price": 187,
+      "Rating": "1",
+      "type": "women",
+      "id": 13
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/f18352be-047d-47aa-8767-1d1eb2c20f00.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "Title": "Twice Mary Jane Platform Pump",
+      "Price": 273,
+      "Rating": "4",
+      "type": "women",
+      "id": 14
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/1e5679ac-1248-4a04-978e-f3075d9f457f.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "Title": "Reggie Sandal",
+      "Price": 273,
+      "Rating": "2",
+      "type": "women",
+      "id": 15
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/6c9e9769-58f1-4e30-831b-8b70922fce0f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Initial Pendant Necklace",
+      "Price": 228,
+      "Rating": "5",
+      "type": "women",
+      "id": 16
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/74fc5604-ce99-4a77-aa66-39291db83e44.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Marley Hoop Earrings",
+      "Price": 271,
+      "Rating": "3",
+      "type": "women",
+      "id": 17
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/07046f9a-513b-47f7-a49b-93be70791d6e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Cubic Zirconia Tennis Bracelet",
+      "Price": 937,
+      "Rating": "2",
+      "type": "women",
+      "id": 18
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/e5c31ae3-c211-4e7a-b1d6-bfdf589922ae.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Kennedy Assorted Set of 2 Rings",
+      "Price": 138,
+      "Rating": "1",
+      "type": "women",
+      "id": 19
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/70ff1214-6b0a-4f6e-8087-3c48e9afb578.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "McGraw Leather Band for Apple Watch®,",
+      "Price": 219,
+      "Rating": "3",
+      "type": "women",
+      "id": 20
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/17985d69-1850-446c-a0f7-9c904eb35b48.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Trim Fit Non-Iron Dress Shirt",
+      "Price": 943,
+      "Rating": "4",
+      "type": "men",
+      "id": 21
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/61f34646-50a5-4736-be9e-31d31aa385cd.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Traditional Fit Non-Iron Dress Shirt",
+      "Price": 237,
+      "Rating": "1",
+      "type": "men",
+      "id": 22
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/bdf44d0c-ff21-4a52-aad2-f10d7bfd672d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Trim Fit Cotton Dress Shirt",
+      "Price": 239,
+      "Rating": "4",
+      "type": "men",
+      "id": 23
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/be2abc00-4ed3-4ce6-a6b8-e45216e3e948.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Price": 397,
+      "Rating": "5",
+      "type": "men",
+      "id": 24
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/1ca63ac2-31e3-423a-a3fe-d6bc531f6070.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Smartcare™ Trim Fit Solid Dress Shirt",
+      "Price": 239,
+      "Rating": "2",
+      "type": "men",
+      "id": 25
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/2e752c39-33b0-4f5f-b57f-4f04341f204f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Tech-Smart Extra Trim Fit Dress Shirt",
+      "Price": 288,
+      "Rating": "1",
+      "type": "men",
+      "id": 26
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/bb9d3803-9ec2-4ff2-9cf6-c7429e11b452.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Men's Leeward Trim Fit Neat Performance Button-Up Shirt",
+      "Price": 239,
+      "Rating": "3",
+      "type": "men",
+      "id": 27
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/ef46f6f7-8738-4903-bb96-240559e338d9.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Hank Kent Slim Fit Stretch Dress Shirt",
+      "Price": 380,
+      "Rating": "2",
+      "type": "men",
+      "id": 28
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/1c574e49-a5a5-4c2b-b7ad-6737966d98d0.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Tech Smart Traditional Fit Gingham CoolMax® Dress Shirt",
+      "Price": 282,
+      "Rating": "2",
+      "type": "men",
+      "id": 29
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/7a0a5c10-7c8d-4419-915c-be4e56c58918.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Regular Fit Oxford Cotton Dress Shirt",
+      "Price": 982,
+      "Rating": "1",
+      "type": "men",
+      "id": 30
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/239ebe59-53ab-4695-99b7-bc10853f1c6a.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "Title": "Dax Plain Toe Derby",
+      "Price": 293,
+      "Rating": "2",
+      "type": "men",
+      "id": 31
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/2f6a4ad1-6292-4325-ba95-5c91006b99d6.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "Title": "Dane Cap Toe Oxford",
+      "Price": 730,
+      "Rating": "3",
+      "type": "men",
+      "id": 32
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/c5aec538-1c62-4766-815d-1e9025d47a2a.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "Title": "Osborn Plain Toe Derby",
+      "Price": 392,
+      "Rating": "2",
+      "type": "men",
+      "id": 33
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/d8cfb883-9560-4bbc-a267-227ca6013a1f.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "Title": "Edge Sneaker",
+      "Price": 920,
+      "Rating": "4",
+      "type": "men",
+      "id": 34
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/959b20d6-f700-4302-b1ff-1979974bd244.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "Title": "Popluxe Crystal Bit Loafer",
+      "Price": 281,
+      "Rating": "2",
+      "type": "men",
+      "id": 35
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/13654d7a-d9cb-4c4c-8553-781d7a55bb28.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Elloy Leather Belt",
+      "Price": 389,
+      "Rating": "1",
+      "type": "men",
+      "id": 36
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/bdae3593-58db-4163-9bf9-670ec1bb5d55.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Mercer Leather Belt",
+      "Price": 299,
+      "Rating": "2",
+      "type": "men",
+      "id": 37
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/237510c1-be9b-4fbe-87ef-5de2b191286b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Harrison Leather Belt",
+      "Price": 299,
+      "Rating": "1",
+      "type": "men",
+      "id": 38
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/b233e6a1-025d-470c-acee-8a7e007a1896.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Reversible Horseshoe Buckle Calfskin Leather Belt",
+      "Price": 839,
+      "Rating": "2",
+      "type": "men",
+      "id": 39
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/ac171d02-4360-43fa-849c-d8cbabeadb5f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Jean Leather Belt",
+      "Price": 288,
+      "Rating": "5",
+      "type": "men",
+      "id": 40
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/90c026f8-6575-4f80-8066-4a96f3cc23ad.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Kids' Sadie Jeggings",
+      "Price": 280,
+      "Rating": "1",
+      "type": "kids",
+      "id": 41
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/eedfbaa5-63db-4a87-b847-4e6bfa67a879.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "The Jane Distressed Cuffed Hem Jeans",
+      "Price": 289,
+      "Rating": "2",
+      "type": "kids",
+      "id": 42
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/b0f9c4d1-932f-40f8-b920-1fa4ebc6585b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Kids' 511® Soft Performance Jeans",
+      "Price": 278,
+      "Rating": "2",
+      "type": "kids",
+      "id": 43
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/ea9054e8-9b48-4b77-b1e6-77d984699360.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Kids' The Olivia Distressed Skinny Jeans",
+      "Price": 128,
+      "Rating": "3",
+      "type": "kids",
+      "id": 44
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/5d00123a-e17c-4f5c-9afd-32edddd52230.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Fray Hem Wide Leg Jeans",
+      "Price": 737,
+      "Rating": "4",
+      "type": "kids",
+      "id": 45
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/9ff75b65-5690-48de-8e03-e8afa9a93e75.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Kids' Glacier Zip Hoodie",
+      "Price": 270,
+      "Rating": "3",
+      "type": "kids",
+      "id": 46
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/385b29ee-a4f6-402e-8ee7-bf578fc833e2.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Baby Hooded Bunting",
+      "Price": 739,
+      "Rating": "1",
+      "type": "kids",
+      "id": 47
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/edd4ce14-bb30-4edc-bda4-8f093061f7f0.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Kids' Polka Dot Unicorn Rain Jacket",
+      "Price": 327,
+      "Rating": "1",
+      "type": "kids",
+      "id": 48
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/4846bf4b-f24b-47ea-acb3-ebce5e7b9860.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Kids' Reversible Mossbud Jacket",
+      "Price": 438,
+      "Rating": "3",
+      "type": "kids",
+      "id": 49
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/33223e5b-c01b-4f78-bc1a-f996490b1804.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Baby Bear Full-Zip Hoodie",
+      "Price": 470,
+      "Rating": "2",
+      "type": "kids",
+      "id": 50
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/77b95ecc-ead8-49d3-985c-568318a64905.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Kids' Relaxed Sweatpants",
+      "Price": 470,
+      "Rating": "5",
+      "type": "kids",
+      "id": 51
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/2c98773f-cb23-4042-a688-a287ddae04c0.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Sportswear Club Fleece Sweatpants",
+      "Price": 249,
+      "Rating": "1",
+      "type": "kids",
+      "id": 52
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/c4c51a62-edb6-4504-9138-63d33301a028.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Everyday Cotton Joggers",
+      "Price": 288,
+      "Rating": "3",
+      "type": "kids",
+      "id": 53
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/95c1a182-4820-4ace-be9d-4e7981661724.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Kids' Renew Wide Leg Leggings",
+      "Price": 512,
+      "Rating": "5",
+      "type": "kids",
+      "id": 54
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/a9ac8c11-57e3-4908-8fe5-a2d4ebb1ac10.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Print Leggings",
+      "Price": 619,
+      "Rating": "4",
+      "type": "kids",
+      "id": 55
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/7ee187bb-c57b-43d1-a150-196e74c08db8.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Suns Out Performance Skort",
+      "Price": 723,
+      "Rating": "5",
+      "type": "activewear",
+      "id": 56
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/910ae0fb-71e3-4ec7-b032-d2be903bd23b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Free Throw Jumpsuit",
+      "Price": 849,
+      "Rating": "1",
+      "type": "activewear",
+      "id": 57
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/781851d2-a8b1-4cf9-a23b-f81eb8875d72.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "The Exercise Dress",
+      "Price": 826,
+      "Rating": "4",
+      "type": "activewear",
+      "id": 58
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/801a240a-4c13-4fea-bd67-a6376d7b1a17.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Studio Light Court Tennis Dress",
+      "Price": 173,
+      "Rating": "3",
+      "type": "activewear",
+      "id": 59
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/487f342e-0279-4b6d-b9fa-7649e27c4a80.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Sportswear Essential T-Shirt Dress",
+      "Price": 378,
+      "Rating": "2",
+      "type": "activewear",
+      "id": 60
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/a445ac86-1ce3-4602-9047-266e94dff160.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Jersey Tank Dress",
+      "Price": 835,
+      "Rating": "5",
+      "type": "activewear",
+      "id": 61
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/4f913f9f-8c7e-4e3f-b4d1-aaa8f2eac361.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Take It Easy Drop Waist Dress",
+      "Price": 739,
+      "Rating": "3",
+      "type": "activewear",
+      "id": 62
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/c72c24c6-659e-4a3b-ac8c-10090d1d1e4e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Cinch Side Dress",
+      "Price": 729,
+      "Rating": "2",
+      "type": "activewear",
+      "id": 63
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/2e7c9e84-6141-4306-ad6f-c5d013bdacf9.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Getaway Sleeveless Romper",
+      "Price": 267,
+      "Rating": "3",
+      "type": "activewear",
+      "id": 64
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/eb03de8f-44a7-475b-b10d-8dcb1983f07a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Follow Through Long Sleeve Organic Cotton Hoodie Dress",
+      "Price": 628,
+      "Rating": "1",
+      "type": "activewear",
+      "id": 65
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/0ae68ae4-6b70-4aa6-989c-9eb52b1a35d1.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Tie Breaker Circle Skirt",
+      "Price": 258,
+      "Rating": "4",
+      "type": "activewear",
+      "id": 66
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/d24e20a4-f535-423b-8d39-6c87eb78f56c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "MWL Superbrushed Pull-On Romper",
+      "Price": 528,
+      "Rating": "3",
+      "type": "activewear",
+      "id": 67
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/bd52e06c-6619-4de8-bbb3-7703fe5128ce.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Free Throw Jumpsuit",
+      "Price": 729,
+      "Rating": "1",
+      "type": "activewear",
+      "id": 68
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/f640f311-f715-44a3-a1cd-dc2d00108bd9.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Perfect Lounge Romper",
+      "Price": 162,
+      "Rating": "3",
+      "type": "activewear",
+      "id": 69
+    },
+    {
+      "avatar": "https://n.nordstrommedia.com/id/sr3/486b389b-cb70-40ea-9af4-8cbbe51aebfe.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "Title": "Bike Unitard",
+      "Price": 702,
+      "Rating": "2",
+      "type": "activewear",
+      "id": 70
+    }
+  ],
+  "signup": [
+    {
+      "Email": "kirti@gmail.com",
+      "Password": "kirti",
+      "id": 1
+    },
+    {
+      "Email": "tanu@gmail.com",
+      "Password": "kirti",
+      "id": 2
+    },
+    {
+      "Email": "sakshi@gmail.com",
+      "Password": "kirti",
+      "id": 3
+    },
+    {
+      "Email": "kirtii@gmail.com",
+      "Password": "kirti",
+      "id": 4
+    },
+    {
+      "Email": "tanuu@gmail.com",
+      "Password": "kirti",
+      "id": 5
+    },
+    {
+      "Email": "ritik@gmail.com",
+      "Password": "kirti",
+      "id": 6
+    },
+    {
+      "Email": "gupta@gmail.com",
+      "Password": "kirti",
+      "id": 7
+    },
+    {
+      "Email": "ghanist@gmail.com",
+      "Password": "kirti",
+      "id": 8
+    },
+    {
+      "Email": "ghanisht@gmail.com",
+      "Password": "kirti",
+      "id": 9
+    },
+    {
+      "Email": "kailash@gmail.com",
+      "Password": "kailash",
+      "id": 10
+    }
+  ]
+}
